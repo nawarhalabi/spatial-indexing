@@ -1,6 +1,9 @@
 # geopandas
 A hackathon to learn how to use geo pandas and based on kaggle competition data found in https://www.kaggle.com/c/nyc-taxi-trip-duration
 
+# Getting Started
+Have a look at the notebook to get started with the task
+
 # Goal
 Create a function that - given two coordinates inside Manhattan - gives an estimate of a taxi journey time in seconds:
 
