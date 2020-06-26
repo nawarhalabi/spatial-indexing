@@ -13,3 +13,5 @@ def function(coord1=(lat, lng), coord2=(lat, lng)):
 ```
 
 This function is better when it acheives a lower mean_squared_log_error using the evaluation set.
+
+<img src='err.png' />
